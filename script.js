@@ -1,3 +1,4 @@
+console.log("hello")
 const title = document.querySelector('.title')
 
 document.addEventListener('scroll',function() {
