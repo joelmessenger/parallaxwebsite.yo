@@ -1,3 +1,14 @@
 header h1{
 font-size: 40px;
 }
+
+.home{
+  display: flex;
+}
+
+.home img{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  pointer-events: none;
+}
