@@ -1,7 +1,7 @@
-const title = document.queryselector('.title')
+const title = document.querySelector('.title')
 
-document.addeventlistener('scroll',function(){
-  let value = windows.scrolly
+document.addEventListener('scroll',function(){
+  let value = windows.scrollY
   // console.log(value)
-  title.style.margintop = value * 2 + 'px'
+  title.style.marginTop = value * 2 + 'px'
 }
