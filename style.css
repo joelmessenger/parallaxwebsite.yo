@@ -8,7 +8,10 @@
 
 .home{
   display: flex;
+  height: 100dvh;
   background: linear-gradient(to top, #D2E2FB 30%, #86A8D8);
+  position: relative;
+  overflow: hidden;
 }
 
 .home img{
