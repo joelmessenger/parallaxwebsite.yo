@@ -4,7 +4,6 @@ header h1{
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 80px;
-  z-index: 100;
 }
 
 .home{
